@@ -62,9 +62,9 @@ With the Data Loader you can:
 - set the watch's real-time clock from the browser,
 - trigger the on-device hardware self-test.
 
-The tool and its documentation are in [`tools/`](tools/) — open
-[`tools/index.html`](tools/index.html) in the browser. An example configuration
-is provided in [`tools/sample_config.json`](tools/sample_config.json).
+The tool is maintained as a separate project — see the
+[LilyGo-Dataloader](https://github.com/OneTardigrada/LilyGo-Dataloader) repository
+for the application, usage instructions, and an example configuration.
 
 ## Privacy
 
