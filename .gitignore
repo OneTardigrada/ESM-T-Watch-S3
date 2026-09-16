@@ -1,0 +1,12 @@
+# PlatformIO build output & downloaded libraries
+.pio/
+
+# VS Code / IDE
+.vscode/
+
+# Interne Analyse-/Bug-Notizen (nur lokal, nicht ins Repo)
+docs/
+
+# OS
+.DS_Store
+Thumbs.db
